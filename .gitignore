@@ -1,3 +1,4 @@
 .Apple*
 .DS*
 ._*
+lib/bitter/caches/
